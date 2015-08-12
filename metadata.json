@@ -1,12 +1,12 @@
 {
-  "name": "jaredjennings/gnome-screensaver",
+  "name": "jaredjennings/gnome_screensaver",
   "version": "0.1.0",
   "author": "Jared Jennings",
-  "summary": "Provide the functionality of the gnome-screensaver module from CMITS (boilerplate)",
+  "summary": "Provide the functionality of the gnome_screensaver module from CMITS (boilerplate)",
   "license": "Apache-2.0",
-  "source": "https://github.com/jaredjennings/puppet-cmits-gnome-screensaver",
-  "project_page": "https://github.com/jaredjennings/puppet-cmits-gnome-screensaver",
-  "issues_url": "https://github.com/jaredjennings/puppet-cmits-gnome-screensaver/issues",
+  "source": "https://github.com/jaredjennings/puppet-cmits-gnome_screensaver",
+  "project_page": "https://github.com/jaredjennings/puppet-cmits-gnome_screensaver",
+  "issues_url": "https://github.com/jaredjennings/puppet-cmits-gnome_screensaver/issues",
   "dependencies": []
 }
 

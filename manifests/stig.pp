@@ -14,7 +14,7 @@
 # % See the License for the specific language governing permissions and
 # % limitations under the License.
 # \subsection{STIG-required screensaver configuration}
-class gnome-screensaver::stig {
+class gnome_screensaver::stig {
 # All settings we are about to set should go in the mandatory GConf tree. And
 # that is the default for this resource type.
     gconf {
